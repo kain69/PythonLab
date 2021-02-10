@@ -140,4 +140,5 @@ dmypy.json
 cython_debug/
 
 # my
-.idea
+/.idea/
+/CopyFolder/
