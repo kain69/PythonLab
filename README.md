@@ -22,3 +22,4 @@ help — справка по командам.
 
 ##### !!!Выполняется из под ubuntu for windows!!!
 ##### !!!Путь для команды retr захардкодил:smile:!!!
+![quest2](https://user-images.githubusercontent.com/37839328/107549352-87871780-6bf1-11eb-95cf-deae4b14f3cd.png)
