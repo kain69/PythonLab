@@ -1,0 +1,154 @@
+{
+    "peoples": [
+        {
+            "name": "Vlad",
+            "subject": [
+                {
+                    "name": "AIS",
+                    "mark": 5,
+                    "leave": 5
+                },
+                {
+                    "name": "C#",
+                    "mark": 5,
+                    "leave": 0
+                },
+                {
+                    "name": "History",
+                    "mark": 3,
+                    "leave": 30
+                },
+                {
+                    "name": "Mat Anal",
+                    "mark": 4,
+                    "leave": 2
+                },
+                {
+                    "name": "Diffur",
+                    "mark": 5,
+                    "leave": 0
+                }
+            ]
+        },
+        {
+            "name": "Sasha",
+            "subject": [
+                {
+                    "name": "AIS",
+                    "mark": 5,
+                    "leave": 0
+                },
+                {
+                    "name": "C#",
+                    "mark": 5,
+                    "leave": 0
+                },
+                {
+                    "name": "History",
+                    "mark": 5,
+                    "leave": 0
+                },
+                {
+                    "name": "Mat Anal",
+                    "mark": 4,
+                    "leave": 3
+                },
+                {
+                    "name": "Diffur",
+                    "mark": 5,
+                    "leave": 2
+                }
+            ]
+        },
+        {
+            "name": "Vova",
+            "subject": [
+                {
+                    "name": "AIS",
+                    "mark": 3,
+                    "leave": 15
+                },
+                {
+                    "name": "C#",
+                    "mark": 3,
+                    "leave": 12
+                },
+                {
+                    "name": "History",
+                    "mark": 2,
+                    "leave": 30
+                },
+                {
+                    "name": "Mat Anal",
+                    "mark": 2,
+                    "leave": 10
+                },
+                {
+                    "name": "Diffur",
+                    "mark": 2,
+                    "leave": 20
+                }
+            ]
+        },
+        {
+            "name": "Anna",
+            "subject": [
+                {
+                    "name": "AIS",
+                    "mark": 4,
+                    "leave": 2
+                },
+                {
+                    "name": "C#",
+                    "mark": 3,
+                    "leave": 2
+                },
+                {
+                    "name": "History",
+                    "mark": 4,
+                    "leave": 1
+                },
+                {
+                    "name": "Mat Anal",
+                    "mark": 3,
+                    "leave": 0
+                },
+                {
+                    "name": "Diffur",
+                    "mark": 3,
+                    "leave": 0
+                }
+            ]
+        },
+        {
+            "name": "Masha",
+            "subject": [
+                {
+                    "name": "AIS",
+                    "mark": 3,
+                    "leave": 10
+                },
+                {
+                    "name": "C#",
+                    "mark": 4,
+                    "leave": 5
+                },
+                {
+                    "name": "History",
+                    "mark": 4,
+                    "leave": 5
+                },
+                {
+                    "name": "Mat Anal",
+                    "mark": 4,
+                    "leave": 1
+                },
+                {
+                    "name": "Diffur",
+                    "mark": 3,
+                    "leave": 0
+                }
+            ]
+        }
+    ]
+}
